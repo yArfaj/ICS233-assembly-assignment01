@@ -1,12 +1,3 @@
-# name: Yunus Alarfaj
-# id: 201861500
-
-# name: Nawaf Alshrqi
-# id: 201741350
-
-
-
-
 
 .data 
 
@@ -19,7 +10,7 @@ linesMsg: .asciiz "\nLines  = "
 errorMsg: .asciiz "Error: input.txt does NOT exist."
 newLine: .asciiz "\n"
 
-filename: .asciiz  "/Users/yalarfaj/Desktop/untitled-Folder/KFUPM/ICS 233/Assignments/Assignment01/Code/input.txt"
+filename: .asciiz  "input.txt"
 arr: .space 10000
 
 
